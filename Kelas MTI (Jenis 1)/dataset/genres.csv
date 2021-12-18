@@ -1,0 +1,295 @@
+genre_name,genre_id
+Psychedelic Rock,c5944406-6a19-4ebe-9e7c-73b3a4c4de8c
+Nu Jazz,c2aedbd9-b9bd-4463-8536-1114651d5273
+Pop Reggae,bb6414a1-bfe4-4c53-bf62-d745a8e9d43a
+Trance,25ede86c-7bf0-4487-919b-d6a76279a47a
+AOR,87bbc4c8-966c-47dd-a0cd-789e08ff8772
+Electroacoustic,316f9d04-d8f5-4ab6-b609-94da3a85a6c7
+Stoner Metal,6c501e8c-0228-486b-9703-4ad33323ba35
+Bubblegum Bass,1f2d2151-600f-40ee-959e-1212b9ebfefb
+Post-Grunge,85bd4f16-bd9f-46b3-bdb8-292f4147ab3b
+Blues Rock,99b1efa1-d242-46df-b700-15702b9cf907
+Free Improvisation,393a5f06-db15-4ce8-be69-3b3695306588
+Country Soul,e8efb9b2-9399-4222-9764-17f155a3d22b
+Chamber Pop,6281c94e-3c71-4c39-995d-b446d6b5f92a
+Outsider House,b21d9ea9-1f86-476f-8bfc-3f27685697d4
+Americana,cc8f1b86-a8fd-4b79-ad99-b6fddb73cebe
+Vocal Jazz,7809c642-ddf5-4205-ae37-c762a9c76753
+Death Metal,a43458c8-a291-45a8-86f4-8c54550c8edd
+Rock,ee71b05b-0edb-4dff-9cd6-9d972d7ad4a8
+Experimental,56968483-4521-4c5d-9e65-49587fb46f6d
+Minimal Techno,667a67aa-96de-4564-85ed-f4a22eb8332a
+Field Recordings,26df6d9b-d887-428d-bdc1-0c99a9ab6e92
+Art Rock,8fe6a4f8-4a57-447a-be01-0c2b5fa0a1be
+Singer-Songwriter,ec629e1e-3fb8-4b48-b305-955649625003
+Hypnagogic Pop,f47aee39-ff4a-458b-9f17-ee472f0b0ee1
+Avant-Garde Metal,a1b8a872-9990-48ae-a045-dbaf14b3f3f8
+Symphonic Metal,2a265c88-099e-4e6e-bde8-a66f2ec27f17
+Experimental Rock,fedc11a9-b20d-4aad-a72a-e7975574c288
+Grindcore,edc20958-8911-4469-b842-bf1c7455328f
+Comedy,ddfb8e5f-1276-43b6-b1c3-f03194d9b70f
+J-Pop,cf7a8718-755d-41c6-8058-1bcb336745e6
+Downtempo,b4845289-3086-4613-a150-cc4cee13eea2
+Ethereal Wave,d38b7f72-b207-4832-aad9-e04906200414
+IDM,5b77a555-702c-46aa-b9d3-3346d5b3d563
+Disco,45ca6485-ebba-406b-a1ec-6e4f977ce05f
+Slowcore,008b277b-9135-44fe-b1be-83bc749bf26f
+Flamenco nuevo,2b8fc4d4-6aa2-4dd3-8d86-6837ce9d6d38
+Power Electronics,a2299e3b-ea0e-4f8b-8cb3-8e7c90f609ab
+Country Rock,6eff479c-37f6-4b11-a759-04bdbb5d2a35
+Space Rock,80073921-ec66-4d48-812e-911e9ec866bf
+Noise,3b3e9328-3e7e-418c-a254-a60898ed8717
+Alternative Rock,fa3c59dd-338f-41be-870f-f3667debdbc5
+Big Beat,3f6b3cf6-1466-4d72-854b-1b03d3fae923
+Jam Band,9c235052-6f66-49e7-9580-bc52f2a9d9a6
+Industrial Rock,279e2d89-17a2-46b9-91ba-59d0e3d80240
+Minimal,fa20f8d6-49de-413b-8851-168ceb8c7d35
+Christmas,275dccbc-44e7-4259-a396-74e3d26287c5
+Heavy Psych,342aa6ac-7aab-4933-b102-1e2b99ce264f
+Dungeon Synth,f2954426-9653-4fd3-b077-3286d9f3112c
+Funk,8c2134f7-cdb1-4bf1-9168-16c631747908
+Rap Rock,a6ee9b6c-d488-4926-8414-e65ff3d24311
+Folktronica,267988ab-e4b4-4327-929e-df9fda03bf66
+Pop Punk,b3f90972-93e9-4477-9e90-bc09d1cd57e9
+No Wave,b9c4de97-3cf7-4c70-8610-76306390a67a
+Funk Metal,823f8ea7-f37c-4901-bd4f-1ccde12cda8f
+Synthpop,b1301422-eac6-4685-8489-ea15f55c7013
+Deathcore,7ec76069-d9f1-4184-9e3a-aea6b48372ca
+Stoner Rock,b8df89da-e3a2-40e5-bcb6-78b4da6bdd9a
+EDM,c7728f3f-4ecf-4f7f-b6b2-5b3ebbccc867
+Electronica,e0798bbc-d989-4aed-a0a0-8a32723050cd
+Chamber Folk,7ea6ebdc-a1e5-4e19-9952-cfa47c7b36a4
+Indie Pop,8bba6725-d545-43ea-8dd5-821a7fff596b
+Musique concrète,34a81d7a-4e2a-48cb-bb83-5e0912d3c873
+Dark Ambient,0231296a-12ea-409e-8ef3-0433783ee5ba
+Progressive Electronic,43e3b94d-cd1e-4781-a9cd-d607ad328d66
+Trap,75ab2e58-a45e-476d-be64-e4e7baa0d5fc
+Baroque Pop,835e5052-af8c-4d4c-a8c3-5623e3eb7410
+Crossover Thrash,b2fa78fb-2e1b-4c63-8cb6-86995efe5177
+Future Funk,c3f5dde4-6944-4809-adaa-e03e25aae574
+Neoclassical Darkwave,62c9e76c-0d95-4f01-a3ad-8a983b5b495b
+Blues,0775e8b6-d448-4cfc-9784-2b81692d32e3
+Industrial,7731f0ec-0dcf-43cf-857f-ca76bc43a830
+Folk Metal,85667d5a-d8ab-4ef1-bc40-5e2dad125ad6
+Noise Pop,e827db72-8a8e-4ac4-89ae-18655f51a964
+Avant-Folk,cb0908a4-6ff2-4a39-9756-79ad3ff3e6e5
+Reggaeton,3b00adf5-0b48-407d-9f94-7db3de3167bc
+Roots Reggae,7826abb9-7d5f-45e3-8a84-f17655c47b01
+Industrial Techno,6d625a41-8d63-4eb9-a073-dc6c97cdcf10
+Grime,fa7486c2-926f-449e-82dd-4ab3b35e86d0
+Abstract Hip Hop,15e42a56-1427-4c8a-9f45-0d9da89a04d7
+Musical Parody,e4f026d1-e924-4f13-bb1d-aeacf550c7e9
+Wonky,c9be9108-99e8-4232-b4c6-dda9262bf9b7
+Drum and Bass,b7dbc448-6842-4a25-8f99-b0cd1663b7de
+Khyal,ab78a414-c123-482c-ba77-e321ac6a00a1
+Dub Techno,fc1f892c-be83-4d4e-8194-1874300007fc
+Ska,e854f1e7-8adf-440a-8795-ca242b315f7e
+Lo-Fi,24e56f06-79d3-4e34-87d9-a29e3ff0f411
+Nu Metal,3de91b64-aa26-4a50-b141-a6513e8cd45a
+Yacht Rock,15b48c28-2f55-4589-b8a2-78520229e7ad
+Skate Punk,98da98c1-5b8a-478d-8442-d323500ab5f9
+Hip Hop,b176a5cc-394e-4fed-a18e-c27da9de0d83
+Progressive Pop,eaa97f34-7752-45d8-bd7c-a9621b1593b6
+Folk Pop,43535d6b-8ede-462b-9016-cc3d0984b0a7
+World,abfa9109-50ac-4954-b698-eab436287c89
+Glitch,4fd3af02-c559-4b20-addf-b9a4809ea319
+Pop Soul,d886f436-a6b7-49c9-9c7d-edc5f01149d9
+Thrash Metal,521fc234-bde8-4839-a866-d5e05553db0a
+Protopunk,71685f1f-a68c-48cb-9408-c562f49d8d45
+Acid House,255c611c-80e5-441d-bb5f-6e667118a5a7
+Math Rock,1a25d0c7-903a-4bdf-9c7d-82874daa6e4a
+Mashup,0271de7d-b0c5-441a-8d45-5907e003ef42
+Dubstep,d5cb9d29-e3cc-43bf-9640-289cb6aeeb96
+American Primitivism,98a5a227-0128-41da-8363-7abb808900c8
+Post-Punk Revival,4007f07f-9d7f-4915-a667-0c5acb143fa3
+NULL,025453e6-2ae9-45db-8796-d43308196259
+Traditional Pop,c78633ac-d883-4915-9a7f-280b9f382ac7
+Electropop,ea8303aa-28c1-484e-9567-8e56edb68800
+Ska Punk,40c3509c-c19e-4ab6-95a0-71d84ce78ac6
+Plunderphonics,d89d6d98-f5f1-422e-bfc7-fc812f6e4592
+Progressive House,7e8aa0dd-e476-46f1-a275-0dacc9c8ee60
+Black Metal,7a287c8d-822a-45fe-be34-6627e328957b
+Horrorcore,3543ef2b-d84e-4347-b758-5d9edd1d5d07
+Witch House,355ed14d-96f7-4d3c-be5f-34175bc8cf5f
+Sophisti-Pop ,ddd89e06-ec58-44e1-ba44-3bd8090691bc
+Digital Hardcore,2f3ea97f-f632-4348-83b5-399862eba01b
+Punk Rock,a08d477a-0c99-46e9-a300-b87137e2db8c
+Glam Rock,766f5b25-4242-4d78-97a2-351350d2274f
+Soul,e2feb33d-61c4-42d6-b0eb-f13fdbf6883d
+Trip Hop,01f6ec8c-bca8-424e-a759-189388dc074a
+K-Pop,19c9ddd2-c824-48dc-bc02-ac96f72ca0ac
+Screamo,346288dd-154f-4c1c-b3e5-8a3b300bec34
+Celtic Punk,d0095b17-27b0-4bc6-bf55-810a77674c55
+Bossa Nova,8cac46d7-9822-45dc-94f7-41aa51213812
+Tropical House,bfd70995-963f-4816-86f3-8a5338abed00
+Melodic Hardcore,290fcabc-33f8-4b8a-85c6-a5b02673c5af
+Death Industrial,220b9358-fe05-4792-a111-d45f251c4809
+Spoken Word,fd93d70d-3dec-494c-bb50-86d2ad46e8bf
+Progressive Metal,93de639a-da10-471f-a3b9-7c9922d97b5d
+Rockabilly,3108ff08-a851-4eb6-8ebe-56600c34a2fa
+Latin Pop,8e95d569-4e3d-4eae-9730-f74a0de8d541
+Latin Alternative,66e281b5-6d8c-40b0-ac58-a17cfc0e4efb
+Electro,b0f4f901-1a7d-48cb-9bf3-651276337f25
+Grunge,0c24d599-3ede-4523-a8b2-df4debba2a6f
+House,84477c30-7cfc-428f-98ee-93335842c057
+Post-Hardcore,1fb0f0f0-a89a-41d3-877c-54f9d0e73ae0
+French House,10573424-9c8b-4f14-bfda-cf3f89bd5288
+Synthwave,7228f4b4-9da3-45ec-a047-fbf479dfa5ce
+Deep House,e12cd849-4398-4999-a2c9-7e5c9d3ef0ad
+Roots Rock,ce077e93-1a68-4db2-ac52-68246882027c
+Noise Rock,2f02d95e-45ae-4a10-9668-44ea677f72ac
+Electro House,945c78c9-9932-4a78-a010-23cc368af92b
+Rock Opera,0b341cf3-4294-4e2a-b25c-81d8c3138a39
+Tribal Ambient,1fbc1cac-6dfb-4c72-97ad-1050e94acd8c
+Rock & Roll,97eea5ba-b1a8-48be-a1b6-bd51e0e5c2df
+Ambient,9727486c-73d4-4ae6-a34b-41434a83c0e3
+Drone Metal,9ebb8919-5dcd-45fd-913d-d99d33c8e121
+Alternative Metal,b6367794-b907-47e6-b08e-1087b9543982
+Blue-eyed Soul,8ca99017-4196-4770-aeee-7d43808a272d
+Jazz,bc49d2a5-7779-42b0-b4c9-963fd93ade3d
+Freak Folk,d777ef03-0e56-4efc-9d06-7f72abab7406
+Punk,39d75d13-c12b-4d53-9a8c-787d2f34d3e7
+Indie Folk,48d79cde-b0f5-4dde-8d39-b4e4d9bd2480
+Reggae,9c5afd5e-8c5d-4f11-8861-5d2a703573f8
+Neo-Soul,eaeb2f3e-0ea4-4c65-8131-4259747eda42
+Pop Rock,c11744da-30c3-4989-a402-143419390d2b
+Bluegrass,bf4b918c-54bc-484d-b7dc-8adafdc07cee
+Psychedelic Soul,7e80a77c-526c-47e6-bfbb-0aa0877e702b
+Metalcore,246fb3c8-ec19-46a5-9361-b8bb643682ea
+Psychedelic Pop,26ef0d24-b840-4228-bd5a-8e90600b5c5d
+Electroclash,cbf0a7ed-8350-47c4-8878-e4ba5b2a49cf
+New Wave,887d83e9-cd55-40c9-8991-e37e9e967c4a
+Heavy Metal,abed07ec-89bd-4e4d-9f5a-616aea9681c8
+Alternative R&B,3b50aea1-d30e-4f39-8c08-03fdc1d3ab55
+Funk Rock,bc2055c0-7382-47d5-89ee-179adc6767e7
+Soft Rock,8c9af680-959d-48e0-a628-b3514b31e115
+Psychobilly,187f814f-d8cf-41ec-9116-ed23c1e050d2
+Adult Contemporary,7e67659a-cb7f-42b1-8f81-e42b6d5de93f
+Alt-Country,8a984354-ea60-4582-9d6f-57608398f303
+Groove Metal,550d8bc4-83a4-4fc1-9790-8d1c32291f3d
+Twee Pop,a967bb9d-6bbf-491b-9869-40ed0c30ed70
+Atmospheric Black Metal,efe2f5b0-c6f8-484d-9494-a80b2d28dfde
+Future Bass,ace090b1-e153-477b-a208-600cdb17c039
+Post-Punk,d674b7cf-3771-47f5-8c26-cf3f47e7deb4
+Melodic Black Metal,520020c6-1d68-4bcc-9e97-bd28cc0b75cb
+Boom Bap,368d612c-8776-44a5-af4d-36532b5d466d
+Comedy Rock,24229c93-45a4-46fc-97dc-dfb734d89f75
+Avant-Garde Jazz,06292ad9-7a01-4bf0-bb85-3d92d0d1da98
+Minimal Synth,4ebc3683-e5a3-4af1-a68d-5967408392cb
+Darkwave,fa7030b3-7343-441e-8778-c228f28da27a
+Standards,85ab2a08-896f-474c-bfa7-4102756e37e3
+Pop Rap,be858490-15fb-4fb1-813b-1b5f15bfea8f
+Classic Rock,108bc0bb-0d84-42e4-aa7b-b9efdce4019f
+Gothic Metal,038f5ec7-ae02-4027-87ae-536047d0f921
+Sunshine Pop,fe20df3a-d277-4912-a154-e8963da5ae8c
+Minimal Wave,e8d017f2-99d7-4d32-9e4e-ca623a18e8cc
+Psychedelic Folk,976c47d7-d4da-4a1c-97de-9f63621f839c
+Heartland Rock,726977b3-dc63-4e87-950b-799efab4c7c9
+Latin Electronic,649bb386-106e-4883-9c38-2627d0a9ce61
+Jazz Fusion,fc5b9886-5585-4d29-a64e-735d43056759
+Indie Rock,4c7ead49-5812-4309-a224-fc0e9df6c34c
+Garage Punk,7a2b441c-cbc8-4984-9ec4-38bc54590b66
+Latin Rock,53bdb814-d867-4a4d-9704-7a68b0b1ed18
+Neofolk,aaffb500-c686-4f8b-aa3c-b3c23b307d9a
+Trap Metal,feba0ca8-c108-4830-972f-08fbf3fe9fed
+French Pop,e1a79419-fd4a-4da0-9450-6514c2e9d4d4
+Glitch Hop,8ef3ebe1-621e-4f63-9d51-1066a4e5e3c7
+Sound Collage,aff08578-b072-4696-b724-e9122466e287
+Dream Pop,53978930-4b30-487c-ad2b-8178e867460d
+Art Pop,0e5eadc1-2a1f-42d5-b4d4-911633c4b3b4
+Mathcore,481ba1b8-eac5-4038-bfb8-e45c0511865f
+Electro-Industrial,6125e3cc-7705-417c-b8c4-5cf2c8efe4f1
+UK Hip Hop,937f1ee3-d9df-45db-ae7b-c32c3a9a48b8
+Cloud Rap,502d33c6-1a53-40f4-86a0-1475c447ad34
+Pop,b6974626-42ce-4787-a468-9632d15b7aa5
+Indietronica,644ac306-1bbe-4422-82d4-4005b4c9d13e
+Yé-yé,f9261c3c-b350-43b1-bf03-fc4cd4d1a05a
+Hip House,9aa365a6-eae9-4bc3-aee8-d1fdd32b0175
+Instrumental Hip Hop,640398f5-1a8a-49e3-9557-9e7134bf2cf2
+Krautrock,9f02566d-971a-433d-af7e-d8c8da90b6f0
+Deconstructed Club,f668f42c-c42b-4e65-b8e8-0b2e93effb31
+Tishoumaren,c14d67d6-aff5-4124-a9d6-d755d5fb46d7
+Post-Industrial,6c124369-d31f-4b42-ab9c-e533471f15fe
+Britpop,6adac6de-be59-4a94-ba45-841935ea9e83
+Blackgaze,c283938b-e0f7-41e0-8751-bb7d9ac1c9ee
+Footwork,3f7beead-f012-4b41-93e8-6d4fb278329d
+Turntablism,2ecab65f-a471-4b3a-aa22-76176adb356f
+MPB,7e1f64f1-dd03-47ce-bebc-7bae5ed25bee
+Dub,cb97f860-f15e-4d64-96ae-27faa8d88e5a
+Nu-Disco,6fb8252e-1876-4104-a77a-ab13d230da14
+Progressive Rock,3c8714cf-02f4-446a-af94-12cc38379080
+R&B,75b716be-87ca-4735-b069-15edc0cf3666
+Modern Classical,18216ff1-5ea2-4942-98fa-ee21aeb9de86
+Dance Punk,ff68b37c-5ae0-430f-b9ca-657758bb22e2
+Emo,4600164f-b2bf-4841-81ae-12cab398136c
+Jazz-Rock,baac2204-ffe5-41de-9cbb-24ee6d7f1550
+Vaporwave,c92d2be2-162d-42d9-98d0-33b875de6f1d
+Country Pop,90f4d804-9cb3-4d98-8019-5fecfa438f8b
+Ambient Pop,e6fd50bf-1473-4d7b-b809-238b57771c0b
+Folk Punk,b6e6d55e-25ac-4ae3-9286-1c3767b8763c
+Doom Metal,ec4725c5-ce18-40c2-8305-5f9490194281
+Afrobeat,d27cdcc7-7f86-4cce-9810-4557f7c3d170
+Ambient House,c5790577-47ec-4ee5-864d-7d88228ffd3f
+Country,ad667dcf-cee3-4bfa-9602-a9b9ba1d7d30
+Microhouse,81ea77a2-dc29-4bcd-9b09-0ed2bdfdb4c4
+Jangle Pop,981830ba-82c4-4ebb-9084-3d998462fe8a
+Melodic Death Metal,8666a5d7-918c-474b-b9c5-0f1ac1d7cb81
+Industrial Metal,aceb390a-11bf-4364-91e3-e3351ad371d8
+Tech House,e8b0c72d-ab82-4e02-af29-e0f8bceaa243
+Djent,d1fe30e7-4044-4e87-b0c4-b0d3cb1d31e7
+Breakbeat,e0baf1c6-6444-4580-b697-a44f1e0b63c7
+Post-Metal,d5e2ab73-07a0-412d-90d6-fcb4dd12e074
+Sludge Metal,74aaf487-9fe8-44af-bff8-2738486e07a3
+Ambient Techno,91036d5b-177c-43eb-8d0d-de2cb1d87674
+Art Punk,44a3d7cc-e114-4965-9397-1dad52606cce
+Folk,39580a6e-6c05-444c-b21f-a688313997e0
+Piano Rock,8f25a789-d1f9-45f0-9147-37eaf0484001
+Tropicália,26e177ae-18be-4acd-bad1-4a6d138aa1c9
+Synth Funk,b31cfa7f-3953-42c3-832d-ffb8479869ee
+Glam Metal,d266d5a3-dca4-4f90-8258-9ee74e2e6581
+Post-Minimalism,5d5bd576-b06c-4c0d-828e-52ef04456eae
+Acid Jazz,d9542e62-1b6b-41cc-b23a-fb5c230b7e4e
+Metal,11a5d276-4eff-41f5-ab17-6ee991bb548b
+UK Garage,850c318c-93c9-48f7-8a89-f82d48aab1c3
+Afrobeats,622118fe-d092-438f-af24-f84be32cbd4e
+Electro-Disco,7b0532e8-42cf-4df0-aa48-c2f6fb718f2e
+Techno,6df7e7d2-1f22-4ae4-b499-ada73204b6a2
+Chillwave,604e1fd0-d19c-467e-9d02-10238954055a
+Trap Rap,b61ea3a5-3426-4e8d-be6a-935186d6146c
+Soul Jazz,5c226cfc-3ad4-46dc-a3db-db16fe163c0d
+Hardcore Breaks,79c35e69-7429-42d3-bb70-9805d4af0dbe
+Hardcore Punk,ea365007-a351-407e-ba95-fdc0b635b01f
+Power Metal,922d3b7a-7a7d-4687-96ff-c42a3b078c76
+Juke,c9cb8e1d-7fa2-4c88-b7ae-44fa816f3bac
+Classical,fc9f0dbf-6c27-433c-beee-f8cf5142fc4a
+Post-Rock,881f20d5-ae5c-4a83-a9df-ec2e55d75bca
+Hard Rock,bd3d5feb-009f-4dee-99d6-681a1551d099
+Minimalism,e84fcf53-6d1d-4c6e-9f7b-6448856152cf
+Dark Jazz,3202a774-6998-4f3c-b100-8757991f310d
+Drone,fdaed1ea-4f6f-446b-8cc5-2b68506e8d62
+Acoustic Rock,0b2906b4-8963-4bc1-9929-bfc68efb6781
+Psychedelic,e89687de-9b85-41f8-a33b-6629bc4c8d10
+Exotica,1047f57a-0fa8-4722-a5c8-4464c555987e
+Dancehall,7bf22a93-a900-49f8-9db6-fdc1116a4a8b
+Future Garage,211e9622-a498-4c64-aaf5-4e695dd0af31
+Power Pop,ee5b58be-a054-4dc2-935d-c90af298a074
+New Age,c8d70c05-6726-497b-ba05-fbdfaf1aada9
+Gothic Rock,774aa2e1-a743-4f8b-9638-a224cac5282a
+Gospel,665deecc-d63d-45e4-a73c-912e9e2549cc
+Folk Rock,49cb3d72-ef85-439c-b562-73acd5400550
+Dance Pop,8fd341a9-b77a-4d6c-9181-99c722906be8
+Electronic,09f69bce-ccdb-4fb6-8c7a-4b49e3c3416f
+Southern Rock,bcc47863-b711-4aca-ab27-2741d1a2cc2b
+Jazz-Funk,d7375f2a-aff6-48cc-8a3f-ff7559b16e02
+Dance,2b5fc905-487f-47c7-8cbb-98cd6a1d4fa0
+Garage Rock,9be7ec17-a062-466e-a8b8-aecad7f446f8
+Glitch Pop,a1a5f99a-53b6-4f02-8f9d-d5544e92430a
+Synth Punk,8672e2bd-99ef-475f-bbe0-fa13f8842253
+Acid Techno,df3f0402-be3b-4fed-96f0-b8312210b6b5
+Experimental Hip Hop,0481c41f-5a3c-4821-8fe1-8a297ec49369
+Shoegaze,305d4351-15a1-4c47-b0c2-4b9e17c5540a
+Alternative Dance,66d2e323-3cfc-4741-9c84-2972b52be1b5
+UK Bass,e6227c6d-9529-4987-9103-d2504dc45897
+Neo-Psychedelia,0abd8b55-2e52-4c30-a99d-a1261b6b308a
+Surf Rock,c52dbf44-3a76-465e-b0e0-7a2d799480fd
+City Pop,7463c0bb-6765-43af-9622-28c7e226e822
